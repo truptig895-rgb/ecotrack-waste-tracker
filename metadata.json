@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack – Personal Waste Tracker",
+  "description": "Track your daily single-use and reusable consumption, calculate plastic footprint, and visualize your sustainability progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
